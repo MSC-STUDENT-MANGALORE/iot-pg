@@ -6,3 +6,5 @@ MOTION SENSOR LED
 https://wokwi.com/projects/334432895650234964
 ULTRASONIC BUZZER
 https://wokwi.com/projects/334434000007332435
+MOTION SENSOR BUZZER
+https://wokwi.com/projects/334433831716127314
