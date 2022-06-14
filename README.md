@@ -10,3 +10,5 @@ https://wokwi.com/projects/334434000007332435
 https://wokwi.com/projects/334433831716127314
 6.ULTRASONIC LED
 https://wokwi.com/projects/334434440478458452
+7.KEYPAD WITH LCD
+https://wokwi.com/projects/334436920975163986
